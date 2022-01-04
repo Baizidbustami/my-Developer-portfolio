@@ -2,7 +2,7 @@
 spen{
     color:orange;
 }
-h1,h2,h3{
+h1,h2,h3,h4{
     font-family:Bahnschrift SemiBold SemiConden;
     font-weight: 600;
     Margin:35px 5px 0px 35px;
@@ -28,7 +28,7 @@ p{
 .mein{
    width:70%;
 }
-.web{
+.btn{
     color:white;
     background-color:orange;
     font-size:20px;
@@ -39,4 +39,70 @@ p{
 
 .container{
     
+}
+.baizid2{
+    width:300px; 
+    height:auto;
+}
+.Abu{
+    width:40%;
+    float:left;
+    
+}
+.Osman{
+    width:60%;
+    float:right;
+}
+.btn{
+    padding:8px;
+    border-radius:10px;
+    font-family: Bahnschrift SemiBold Condensed;
+}
+.section2{
+    display:flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom:50px;
+    
+}
+h5{
+    color:orange;
+    margin:10px 5px 10px 25px;
+}
+.nahid{
+    display:flex;
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+.Full{
+    Width:45%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:10px;
+
+     border-left:7px solid;
+     border-image:linear-gradient(tomato,orange);
+     border-image-slice: 1; 
+}
+.Baby{
+    width:45%;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+    margin-left:5%;
+    margin-right:5%;
+    padding:10px;
+
+    border-left:7px solid;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1; 
+}
+.footer{
+    background-color:black;
+    color:white;
+    text-align: center;
 }
