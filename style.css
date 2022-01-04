@@ -1,0 +1,42 @@
+
+spen{
+    color:orange;
+}
+h1,h2,h3{
+    font-family:Bahnschrift SemiBold SemiConden;
+    font-weight: 600;
+    Margin:35px 5px 0px 35px;
+}
+.section1{
+    display:flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.header{
+    width:30%;
+}
+p{
+    text-align:justify;
+    font-family: Monotype Corsiva;
+    font-size:22px;
+    Margin:10px 0px 10px 25px;
+}
+.baizid1{
+   width:300px; 
+   height:auto;
+}
+.mein{
+   width:70%;
+}
+.web{
+    color:white;
+    background-color:orange;
+    font-size:20px;
+    text-decoration: none;
+    margin:10px 5px 10px 25px;
+    box-sizing: border-box;
+}
+
+.container{
+    
+}
